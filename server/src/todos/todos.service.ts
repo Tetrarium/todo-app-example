@@ -31,7 +31,7 @@ export class TodosService {
       id: '2',
       title: 'test2',
       description: 'test2',
-      done: false,
+      done: true,
     },
   ];
   private _id = 3;
